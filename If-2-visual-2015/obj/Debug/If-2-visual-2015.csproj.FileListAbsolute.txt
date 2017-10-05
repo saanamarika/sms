@@ -1,0 +1,6 @@
+Z:\dev\If-2-visual-2015\bin\Debug\If-2-visual-2015.exe.config
+Z:\dev\If-2-visual-2015\bin\Debug\If-2-visual-2015.exe
+Z:\dev\If-2-visual-2015\bin\Debug\If-2-visual-2015.pdb
+Z:\dev\If-2-visual-2015\obj\Debug\If-2-visual-2015.csprojResolveAssemblyReference.cache
+Z:\dev\If-2-visual-2015\obj\Debug\If-2-visual-2015.exe
+Z:\dev\If-2-visual-2015\obj\Debug\If-2-visual-2015.pdb
