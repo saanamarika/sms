@@ -16,7 +16,7 @@ namespace Silmukka
 
             int i = 0;
             double f = 1;
-            if (number >= 0)
+            if (number > 0)
             {
                 do
                 {
