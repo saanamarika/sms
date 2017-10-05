@@ -1,0 +1,6 @@
+Z:\dev\sms\Silmukka\bin\Debug\Silmukka.exe.config
+Z:\dev\sms\Silmukka\bin\Debug\Silmukka.exe
+Z:\dev\sms\Silmukka\bin\Debug\Silmukka.pdb
+Z:\dev\sms\Silmukka\obj\Debug\Silmukka.csprojResolveAssemblyReference.cache
+Z:\dev\sms\Silmukka\obj\Debug\Silmukka.exe
+Z:\dev\sms\Silmukka\obj\Debug\Silmukka.pdb
