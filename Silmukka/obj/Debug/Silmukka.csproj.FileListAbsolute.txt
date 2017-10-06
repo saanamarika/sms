@@ -4,3 +4,10 @@ Z:\dev\sms\Silmukka\bin\Debug\Silmukka.pdb
 Z:\dev\sms\Silmukka\obj\Debug\Silmukka.csprojResolveAssemblyReference.cache
 Z:\dev\sms\Silmukka\obj\Debug\Silmukka.exe
 Z:\dev\sms\Silmukka\obj\Debug\Silmukka.pdb
+D:\Dev\sms\Silmukka\bin\Debug\Silmukka.exe.config
+D:\Dev\sms\Silmukka\bin\Debug\Silmukka.exe
+D:\Dev\sms\Silmukka\bin\Debug\Silmukka.pdb
+D:\Dev\sms\Silmukka\obj\Debug\Silmukka.csprojResolveAssemblyReference.cache
+D:\Dev\sms\Silmukka\obj\Debug\Silmukka.csproj.CoreCompileInputs.cache
+D:\Dev\sms\Silmukka\obj\Debug\Silmukka.exe
+D:\Dev\sms\Silmukka\obj\Debug\Silmukka.pdb

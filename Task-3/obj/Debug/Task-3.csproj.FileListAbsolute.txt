@@ -3,3 +3,10 @@ Z:\dev\sms\Task-3\bin\Debug\Task-3.exe
 Z:\dev\sms\Task-3\bin\Debug\Task-3.pdb
 Z:\dev\sms\Task-3\obj\Debug\Task-3.exe
 Z:\dev\sms\Task-3\obj\Debug\Task-3.pdb
+D:\Dev\sms\Task-3\bin\Debug\Task-3.exe.config
+D:\Dev\sms\Task-3\bin\Debug\Task-3.exe
+D:\Dev\sms\Task-3\bin\Debug\Task-3.pdb
+D:\Dev\sms\Task-3\obj\Debug\Task-3.csprojResolveAssemblyReference.cache
+D:\Dev\sms\Task-3\obj\Debug\Task-3.csproj.CoreCompileInputs.cache
+D:\Dev\sms\Task-3\obj\Debug\Task-3.exe
+D:\Dev\sms\Task-3\obj\Debug\Task-3.pdb
