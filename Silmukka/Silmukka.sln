@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silmukka", "Silmukka.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-2", "..\Task-2\Task-2.csproj", "{9FFAE524-057B-4124-B10E-211A26187305}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-3", "..\Task-3\Task-3.csproj", "{5F831B22-E941-466A-8FD1-99923A6F985B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9FFAE524-057B-4124-B10E-211A26187305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FFAE524-057B-4124-B10E-211A26187305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FFAE524-057B-4124-B10E-211A26187305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F831B22-E941-466A-8FD1-99923A6F985B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F831B22-E941-466A-8FD1-99923A6F985B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F831B22-E941-466A-8FD1-99923A6F985B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F831B22-E941-466A-8FD1-99923A6F985B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

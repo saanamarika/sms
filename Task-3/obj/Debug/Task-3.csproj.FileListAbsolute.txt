@@ -1,0 +1,5 @@
+Z:\dev\sms\Task-3\bin\Debug\Task-3.exe.config
+Z:\dev\sms\Task-3\bin\Debug\Task-3.exe
+Z:\dev\sms\Task-3\bin\Debug\Task-3.pdb
+Z:\dev\sms\Task-3\obj\Debug\Task-3.exe
+Z:\dev\sms\Task-3\obj\Debug\Task-3.pdb
