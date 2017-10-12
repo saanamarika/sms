@@ -10,6 +10,7 @@ namespace Task_3
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.Write("Ohjelma antaa parittomien ja parillisten yhteissumman, syötä luku: ");
             String userInput = Console.ReadLine();
             int number = int.Parse(userInput);

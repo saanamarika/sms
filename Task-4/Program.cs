@@ -6,7 +6,12 @@ namespace Task_4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine("Ohjelma antaa negatiivisten lukujen summan. Parillinen ja Pariton. Syötä luku: ");
+            string userInput = Console.ReadLine();
+            int number = int.Parse(userInput);
+
+
         }
     }
 }

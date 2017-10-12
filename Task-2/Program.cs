@@ -10,6 +10,7 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.Write("Ohjelma laskee kertoman. Anna luku, jonka kertoma lasketaan: ");
             String userInput = Console.ReadLine();
             int number = int.Parse(userInput);
