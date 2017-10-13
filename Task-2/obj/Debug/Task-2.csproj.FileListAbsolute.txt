@@ -4,3 +4,10 @@ Z:\dev\sms\Task-2\bin\Debug\Task-2.exe
 Z:\dev\sms\Task-2\bin\Debug\Task-2.pdb
 Z:\dev\sms\Task-2\obj\Debug\Task-2.exe
 Z:\dev\sms\Task-2\obj\Debug\Task-2.pdb
+D:\Dev\sms\Task-2\bin\Debug\Task-2.exe.config
+D:\Dev\sms\Task-2\bin\Debug\Task-2.exe
+D:\Dev\sms\Task-2\bin\Debug\Task-2.pdb
+D:\Dev\sms\Task-2\obj\Debug\Task-2.csprojResolveAssemblyReference.cache
+D:\Dev\sms\Task-2\obj\Debug\Task-2.csproj.CoreCompileInputs.cache
+D:\Dev\sms\Task-2\obj\Debug\Task-2.exe
+D:\Dev\sms\Task-2\obj\Debug\Task-2.pdb

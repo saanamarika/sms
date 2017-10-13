@@ -1,0 +1,10 @@
+D:\Dev\sms\Task-4.0\bin\Debug\netcoreapp1.1\Task-4.0.deps.json
+D:\Dev\sms\Task-4.0\bin\Debug\netcoreapp1.1\Task-4.0.runtimeconfig.json
+D:\Dev\sms\Task-4.0\bin\Debug\netcoreapp1.1\Task-4.0.runtimeconfig.dev.json
+D:\Dev\sms\Task-4.0\bin\Debug\netcoreapp1.1\Task-4.0.dll
+D:\Dev\sms\Task-4.0\bin\Debug\netcoreapp1.1\Task-4.0.pdb
+D:\Dev\sms\Task-4.0\obj\Debug\netcoreapp1.1\Task-4.0.csprojResolveAssemblyReference.cache
+D:\Dev\sms\Task-4.0\obj\Debug\netcoreapp1.1\Task-4.0.csproj.CoreCompileInputs.cache
+D:\Dev\sms\Task-4.0\obj\Debug\netcoreapp1.1\Task-4.0.AssemblyInfo.cs
+D:\Dev\sms\Task-4.0\obj\Debug\netcoreapp1.1\Task-4.0.dll
+D:\Dev\sms\Task-4.0\obj\Debug\netcoreapp1.1\Task-4.0.pdb

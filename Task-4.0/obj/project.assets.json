@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Dev\\sms\\Task-4\\Task-5.csproj",
-      "projectName": "Task-5",
-      "projectPath": "D:\\Dev\\sms\\Task-4\\Task-5.csproj",
+      "projectUniqueName": "D:\\Dev\\sms\\Task-4.0\\Task-4.0.csproj",
+      "projectName": "Task-4.0",
+      "projectPath": "D:\\Dev\\sms\\Task-4.0\\Task-4.0.csproj",
       "packagesPath": "C:\\Users\\saana\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\sms\\Task-4\\obj\\",
+      "outputPath": "D:\\Dev\\sms\\Task-4.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saana\\AppData\\Roaming\\NuGet\\NuGet.Config",
