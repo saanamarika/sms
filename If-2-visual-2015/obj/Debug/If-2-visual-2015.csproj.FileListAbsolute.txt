@@ -4,3 +4,10 @@ Z:\dev\If-2-visual-2015\bin\Debug\If-2-visual-2015.pdb
 Z:\dev\If-2-visual-2015\obj\Debug\If-2-visual-2015.csprojResolveAssemblyReference.cache
 Z:\dev\If-2-visual-2015\obj\Debug\If-2-visual-2015.exe
 Z:\dev\If-2-visual-2015\obj\Debug\If-2-visual-2015.pdb
+D:\Dev\sms\If-2-visual-2015\bin\Debug\If-2-visual-2015.exe.config
+D:\Dev\sms\If-2-visual-2015\bin\Debug\If-2-visual-2015.exe
+D:\Dev\sms\If-2-visual-2015\bin\Debug\If-2-visual-2015.pdb
+D:\Dev\sms\If-2-visual-2015\obj\Debug\If-2-visual-2015.csprojResolveAssemblyReference.cache
+D:\Dev\sms\If-2-visual-2015\obj\Debug\If-2-visual-2015.csproj.CoreCompileInputs.cache
+D:\Dev\sms\If-2-visual-2015\obj\Debug\If-2-visual-2015.exe
+D:\Dev\sms\If-2-visual-2015\obj\Debug\If-2-visual-2015.pdb
